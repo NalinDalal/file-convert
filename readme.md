@@ -1,10 +1,12 @@
 to run the app:
 
+```sh
 > python3 -m venv venv
 > source venv/bin/activate
 > pip install fpdf pillow moviepy python-docx PyPDF2 openpyxl pandas pdf2image python-pptx ebooklib
 > brew install poppler # macOS (needed for pdf2image)
 > python3 app.py
+```
 
 ## ✅ **Supported File Conversions**
 
