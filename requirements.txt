@@ -1,0 +1,3 @@
+pip install fpdf pillow moviepy python-docx PyPDF2 pandas openpyxl pdf2image python-pptx ebooklib
+brew install poppler  # Required for pdf2image on macOS
+
